@@ -23,3 +23,5 @@
 ## [Understanding HTML Tags and Elements] - [https://leanwithpankaj.hashnode.dev/understanding-html-tags-and-elements]
 
 ## [Emmet for HTML: A Beginner’s Guide to Writing Faster Markup] - [https://leanwithpankaj.hashnode.dev/emmet-for-html-a-beginners-guide-to-writing-faster-markup]
+
+## [CSS Selectors 101: Targeting Elements with Precision] - [https://leanwithpankaj.hashnode.dev/css-selectors-101-targeting-elements-with-precision?showSharer=true]
